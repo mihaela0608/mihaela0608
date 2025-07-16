@@ -50,9 +50,9 @@ Organizers go through a short application, and admins keep things smooth.
 
 ### 📊 GitHub Stats
 
-![Mihaela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihaela06&show_icons=true&theme=calm)
+![Mihaela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihaela0608&show_icons=true&theme=calm)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaela06&layout=compact&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaela0608&layout=compact&theme=calm)
 
 ---
 
